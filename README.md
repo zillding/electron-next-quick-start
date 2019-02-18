@@ -2,7 +2,7 @@
 
 **Clone and run for a quick way to see electron + next in action.**
 
-## To Use
+## Quick start
 
 ```bash
 # Clone this repository
@@ -13,6 +13,8 @@ cd electron-next-quick-start
 npm install
 # Run the app
 npm start
+# Build app for production
+npm run dist
 ```
 
 ## Resources for Learning Electron
@@ -23,7 +25,3 @@ npm start
 - [electron/simple-samples](https://github.com/electron/simple-samples) - small applications with ideas for taking them further
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
-
-## License
-
-[CC0 1.0 (Public Domain)](LICENSE.md)
