@@ -1,0 +1,21 @@
+{
+  "name": "electron-next-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron + Next application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "github:zillding/electron-next-quick-start",
+  "keywords": [
+    "electron",
+    "next",
+    "quick",
+    "start"
+  ],
+  "author": "Zill Ding",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
