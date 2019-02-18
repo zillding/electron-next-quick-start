@@ -4,7 +4,9 @@
   "description": "A minimal Electron + Next application",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   },
   "repository": "github:zillding/electron-next-quick-start",
   "keywords": [
@@ -16,6 +18,7 @@
   "author": "Zill Ding",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^4.0.4"
+    "electron": "^4.0.4",
+    "electron-builder": "^20.38.5"
   }
 }
