@@ -1,5 +1,7 @@
 # electron-next-quick-start
 
+[![Build Status](https://travis-ci.org/zillding/electron-next-quick-start.svg?branch=master)](https://travis-ci.org/zillding/electron-next-quick-start)
+
 **Clone and run for a quick way to see electron + next in action.**
 
 ## Quick start
