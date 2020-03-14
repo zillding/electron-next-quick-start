@@ -1,7 +1,7 @@
 # electron-next-quick-start
 
 [![Build Status](https://travis-ci.com/zillding/electron-next-quick-start.svg?branch=master)](https://travis-ci.com/zillding/electron-next-quick-start)
-[![Greenkeeper badge](https://badges.greenkeeper.io/zillding/electron-next-quick-start.svg)](https://greenkeeper.io/)
+
 
 **Clone and run for a quick way to see electron + next in action.**
 
