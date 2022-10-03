@@ -27,7 +27,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^15.5.5",
-    "electron-builder": "^22.1.0",
+    "electron-builder": "^22.14.13",
     "next": "^11.1.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2"
